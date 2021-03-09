@@ -894,5 +894,10 @@ export const companies = [
 		href: "https://www.enablerr.ch/",
 		src: "organisations/enablerr.png",
 		alt: "enablerr by pier4all"
+	},
+	{
+		href: "https://www.nexthub.io",
+		src: "organisations/nexthub.png",
+		alt: "NextHub"
 	}
 ];
